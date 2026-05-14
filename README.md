@@ -234,4 +234,4 @@ src/
 
 ## Lisans
 
-Bu repo için henüz lisans dosyası eklenmedi. Public kullanım veya katkı kabulü planlanıyorsa bir lisans seçilmelidir.
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
